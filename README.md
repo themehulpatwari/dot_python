@@ -27,7 +27,7 @@ This project allows you to convert events in ICS/Ical format into Google Tasks a
     ```
 4. Follow the instructions from google and download credentials.json:
 
-    [(https://developers.google.com/tasks/quickstart/python)]
+    [https://developers.google.com/tasks/quickstart/python]
 
 ## Usage
 
