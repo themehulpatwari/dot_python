@@ -154,6 +154,7 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Files to ignore
 extra/
 credentials.json
 .DS_Store
