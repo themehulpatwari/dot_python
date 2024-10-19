@@ -1,6 +1,6 @@
 from util import (
     get_ics_events,
-    insert_into_tasklist
+    insert_into_tasklist,
 )
 
 def main():
